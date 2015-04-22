@@ -14,35 +14,34 @@
     </div>
     <ul class="ca-menu">
         <li>
-            <a href="http://www.rohitjha.com/labs" target="_blank"><i class="icon-beaker icon-large"></i>Labs</a>
+            <a href="http://www.rohitjha.com/labs" target="_blank"><i class="fa fa-flask fa-lg"></i>Labs</a>
         </li>
         <li>
-            <a href="http://www.rohitjha.com/blog" target="_blank"><i class="icon-edit icon-large"></i>Blog</a>
+            <a href="http://www.rohitjha.com/blog" target="_blank"><i class="fa fa-pencil fa-lg"></i>Blog</a>
         </li>
         <li>
-            <a href="mailto:rohitjha@outlook.com" target="_blank"><i class="icon-envelope-alt icon-large"></i>Contact</a>
+            <a href="mailto:rohitjha@outlook.com" target="_blank"><i class="fa fa-envelope-o fa-lg"></i>Contact</a>
         </li>
 
     </ul>
-
     <ul class="social-menu">            	
      <li>
-      <a class="twitter" href="http://twitter.com/jharohit" target="_blank"><i class="icon-twitter icon-large"></i>twitter</a>
+      <a class="twitter" href="http://twitter.com/jharohit" target="_blank"><i class="fa fa-twitter fa-lg"></i></a>
   </li>
   <li>
-      <a class="facebook" href="http://facebook.com/jharohit" target="_blank">facebook</a>
+      <a class="facebook" href="http://facebook.com/jharohit" target="_blank"><i class="fa fa-facebook fa-lg"></i></a>
   </li>
   <li>
-      <a class="google-plus" href="https://plus.google.com/116359256653774371112/posts" target="_blank"><i class="icon-google-plus-sign icon-large"></i> Google+</a>
+      <a class="google-plus" href="https://plus.google.com/116359256653774371112/posts" target="_blank"><i class="fa fa-google-plus fa-lg"></i></a>
   </li>
   <li>
-      <a class="linkedin" href="http://www.linkedin.com/in/rohitrj" target="_blank">Linked<i class="icon-linkedin"></i></a>
+      <a class="linkedin" href="http://www.linkedin.com/in/rohitrj" target="_blank"><i class="fa fa-linkedin fa-lg"></i></a>
   </li>
   <li>
-      <a class="github" href="http://github.com/jharohit" target="_blank"><i class="icon-github icon-large"></i>github</a>
+      <a class="github" href="http://github.com/jharohit" target="_blank"><i class="fa fa-github fa-lg"></i></a>
   </li>
   <li>
-      <a class="pinterest" href="http://pinterest.com/jharohit/" target="_blank"><i class="icon-pinterest icon-large"></i>interest</a>
+      <a class="pinterest" href="http://pinterest.com/jharohit/" target="_blank"><i class="fa fa-pinterest fa-lg"></i></a>
   </li>
 </ul>
 <script>

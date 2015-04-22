@@ -69,13 +69,6 @@ body {
 
 .social-menu li:hover .linkedin {
     border-radius: 3px;
-    background-color: #fff;
-    color: #000;
-    opacity: 1;
-    text-decoration: none;
-}
-
-.social-menu li:hover .icon-linkedin {
     background-color: #4099ff;
     color: #fff;
     opacity: 1;
@@ -89,6 +82,10 @@ body {
     text-decoration: none;
 }
 
+.social-menu i {
+    padding-right: 10px;
+}
+
 .ca-menu{
     float: left;
     top: 0;
@@ -97,7 +94,8 @@ body {
 }
 .ca-menu li{
     text-decoration: none;
-    display: inline-block;
+    display: block;
+    margin: 20px 0px;
 }
 .ca-menu a{
     padding: 10px 10px 10px 10px;
