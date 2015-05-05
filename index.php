@@ -2,6 +2,7 @@
 <html>
 <head>
   <meta name="description" content="This is the personal website of Rohit Jha. This provides a gateway to his projects, ideas and creativity.">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Rohit Jha</title>
   <link href='http://fonts.googleapis.com/css?family=Droid+Sans' rel='stylesheet' type='text/css'>
   <link rel="icon"  type="image/png"   href="favicon.ico">
